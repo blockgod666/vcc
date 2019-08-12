@@ -18,4 +18,4 @@
 
 ./stop.sh
 ./start.sh
-echo "服务重启成功"
+echo "service restarted"

@@ -1,2 +1,2 @@
-nohup ./gvc --datadir ./data --supernodeaddr 你的地址 >nohup.log &
-echo "服务已经启动"
+nohup ./gvc --datadir ./data --supernodeaddr 0xxxxx >nohup.log &
+echo "service started"

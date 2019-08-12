@@ -32,4 +32,4 @@ if [ -n "${chks}" ]; then
     killall -q gvc
     sleep 5s
 fi
-echo "服务已经停止"
+echo "service stopped"
