@@ -1,0 +1,2 @@
+./download.sh
+./restart.sh
